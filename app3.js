@@ -14,3 +14,6 @@ else
 
 
 document.write('<h2>' + greeting + '</h2>');
+
+
+printUsername();

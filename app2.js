@@ -5,3 +5,5 @@ if (userage >= 50) {
 }else {
     document.write('<h2>' + 'Wow, you are young!' + '</h2>');
 }
+
+printUsername();
