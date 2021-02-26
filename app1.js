@@ -1,3 +1,5 @@
+
+
 function printUsername()
 {
     //grab name from user

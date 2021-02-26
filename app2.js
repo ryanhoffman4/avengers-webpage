@@ -1,3 +1,4 @@
+
 let userage = prompt("Please enter your age:");
 
 if (userage >= 50) {
